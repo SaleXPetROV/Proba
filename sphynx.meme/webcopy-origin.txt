@@ -1,0 +1,104 @@
+Uri: https://cdn.jsdelivr.net/npm/lax.js
+File Name: C:\Downloaded Web Sites\sphynx.meme\npm\lax.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap
+File Name: C:\Downloaded Web Sites\sphynx.meme\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgWxP.ttf
+File Name: C:\Downloaded Web Sites\sphynx.meme\s\roboto\v32\KFOkCnqEu92Fr1MmgWxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: C:\Downloaded Web Sites\sphynx.meme\s\roboto\v32\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5vAw.ttf
+File Name: C:\Downloaded Web Sites\sphynx.meme\s\roboto\v32\KFOlCnqEu92Fr1MmSU5vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: C:\Downloaded Web Sites\sphynx.meme\s\roboto\v32\KFOlCnqEu92Fr1MmWUlvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtvAw.ttf
+File Name: C:\Downloaded Web Sites\sphynx.meme\s\roboto\v32\KFOlCnqEu92Fr1MmYUtvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\sphynx.meme\s\roboto\v32\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://sphynx.meme/
+File Name: C:\Downloaded Web Sites\sphynx.meme\index.htm
+Content Type: text/html
+
+Uri: https://sphynx.meme/assets/index-BnzeKTH2.js
+File Name: C:\Downloaded Web Sites\sphynx.meme\assets\index-BnzeKTH2.js
+Content Type: application/javascript
+
+Uri: https://sphynx.meme/assets/index-BrGaHJov.css
+File Name: C:\Downloaded Web Sites\sphynx.meme\assets\index-BrGaHJov.css
+Content Type: text/css
+
+Uri: https://sphynx.meme/assets/materialdesignicons-webfont-CgCzGbLl.woff
+File Name: C:\Downloaded Web Sites\sphynx.meme\assets\materialdesignicons-webfont-CgCzGbLl.woff
+Content Type: application/font-woff
+
+Uri: https://sphynx.meme/assets/materialdesignicons-webfont-CgCzGbLl.woff?v=7.0.96
+File Name: C:\Downloaded Web Sites\sphynx.meme\assets\materialdesignicons-webfont-CgCzGbLl-1.woff
+Content Type: application/font-woff
+
+Uri: https://sphynx.meme/assets/materialdesignicons-webfont-CYDMK1kx.woff2
+File Name: C:\Downloaded Web Sites\sphynx.meme\assets\materialdesignicons-webfont-CYDMK1kx.woff2
+Content Type: application/octet-stream
+
+Uri: https://sphynx.meme/assets/materialdesignicons-webfont-CYDMK1kx.woff2?v=7.0.96
+File Name: C:\Downloaded Web Sites\sphynx.meme\assets\materialdesignicons-webfont-CYDMK1kx-1.woff2
+Content Type: application/octet-stream
+
+Uri: https://sphynx.meme/assets/materialdesignicons-webfont-D3kAzl71.ttf
+File Name: C:\Downloaded Web Sites\sphynx.meme\assets\materialdesignicons-webfont-D3kAzl71.ttf
+Content Type: application/octet-stream
+
+Uri: https://sphynx.meme/assets/materialdesignicons-webfont-D3kAzl71.ttf?v=7.0.96
+File Name: C:\Downloaded Web Sites\sphynx.meme\assets\materialdesignicons-webfont-D3kAzl71-1.ttf
+Content Type: application/octet-stream
+
+Uri: https://sphynx.meme/assets/materialdesignicons-webfont-DttUABo4.eot
+File Name: C:\Downloaded Web Sites\sphynx.meme\assets\materialdesignicons-webfont-DttUABo4.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://sphynx.meme/assets/materialdesignicons-webfont-DttUABo4.eot?
+File Name: C:\Downloaded Web Sites\sphynx.meme\assets\materialdesignicons-webfont-DttUABo4-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://sphynx.meme/assets/materialdesignicons-webfont-DttUABo4.eot?v=7.0.96
+File Name: C:\Downloaded Web Sites\sphynx.meme\assets\materialdesignicons-webfont-DttUABo4-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://sphynx.meme/assets/OtomanopeeOne-Regular-BSNiLLv7.ttf
+File Name: C:\Downloaded Web Sites\sphynx.meme\assets\OtomanopeeOne-Regular-BSNiLLv7.ttf
+Content Type: application/octet-stream
+
+Uri: https://sphynx.meme/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\sphynx.meme\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://sphynx.meme/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\sphynx.meme\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://sphynx.meme/favicon.ico
+File Name: C:\Downloaded Web Sites\sphynx.meme\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://sphynx.meme/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\sphynx.meme\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://sphynx.meme/site.webmanifest
+File Name: C:\Downloaded Web Sites\sphynx.meme\site.webmanifest
+Content Type: application/octet-stream
+
